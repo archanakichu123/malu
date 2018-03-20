@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a[40],n,i,j,f=0,count++;
+int a[50],n,i,j,f=0,count++;
 int index_arr[10];
 printf("Enter an array : ");
 for(i=0;i<n;i++)
